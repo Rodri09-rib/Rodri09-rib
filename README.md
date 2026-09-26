@@ -4,7 +4,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rodri09-rib&label=Profile%20Views&color=0e75b6&style=flat" alt="Visualizações do Perfil" />
 
-Me chamo Rodrigo Ribeiro Ferreira, tenho 26 anos e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento, trajetória e projetos através das minhas redes e do meu portfólio.
+Me chamo Rodrigo Ribeiro Ferreira, tenho 26 anos e estou cursando Análise e Desenvolvimento de Sistemas. 
+Sou apaixonado por tecnologia e compartilho meu conhecimento, trajetória e projetos através das minhas redes e do meu portfólio.
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
