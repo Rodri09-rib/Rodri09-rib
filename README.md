@@ -41,6 +41,7 @@ Compartilho meu conhecimento, trajetória e projetos através das minhas redes e
 * **[Web services em Java](https://github.com/Rodri09-rib/Rodri09-rib-workshop-springboot4-jpa)** - *Este é um projeto de desenvolvimento de web services em Java utilizando o ecossistema Spring Boot, JPA e Hibernate, com o objetivo de construir o backend para um sistema de comércio eletrônico e gerenciamento de pedidos.*
 * **[My Bank](https://github.com/Rodri09-rib/My_Bank)** - *Este projeto consiste num sistema bancário didático desenvolvido 100% em Java puro, sem a utilização de frameworks ou bases de dados externas. O seu principal propósito é ensinar na prática os pilares da Orientação a Objetos, como o encapsulamento, a herança e o polimorfismo.*
 * **[SuperVisor](https://github.com/Rodri09-rib/SuperVisor)** - *O SuperVisor é uma plataforma web para a gestão, alocação e publicação de escalas/folgas/usuários de trabalho operacionais, desenhada para automatizar o planejamento de equipes e garantir o cumprimento de regras operacionais.*
+* **[Xadrez](https://github.com/Rodri09-rib/xadrez-sistema-java)** - *O Xadrez é um jogo de xadrez em 100% Java puro, com interface de console, sem frameworks e sem dependências externas.*
 
 ---
 ### 📊 Estatísticas e Consistência
